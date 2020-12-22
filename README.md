@@ -1,2 +1,2 @@
 # ReactNativeSandbox
-Sandbox for react native
+Sandbox for react native using Expo
